@@ -1,27 +1,27 @@
 # omu.github.io
-POLÍTICA DE PRIVACIDADE — PAPAGAIO
+POLÍTICA DE PRIVACIDADE — Ōmu
 
 Última atualização: 5 de agosto de 2026
 
 IMPORTANTE
 
-Este documento é um modelo adaptado ao funcionamento conhecido do aplicativo Papagaio. Antes da publicação, o responsável legal deve revisar o texto, preencher os dados de identificação que ainda não foram informados e, se necessário, submetê-lo à análise de um profissional especializado em proteção de dados.
+Este documento é um modelo adaptado ao funcionamento conhecido do aplicativo Ōmu. Antes da publicação, o responsável legal deve revisar o texto, preencher os dados de identificação que ainda não foram informados e, se necessário, submetê-lo à análise de um profissional especializado em proteção de dados.
 
 ## 1. INFORMAÇÕES GERAIS
 
-Esta Política de Privacidade explica como o aplicativo Papagaio coleta, usa, armazena e protege informações durante sua utilização.
+Esta Política de Privacidade explica como o aplicativo Ōmu coleta, usa, armazena e protege informações durante sua utilização.
 
-O Papagaio é um aplicativo para macOS que grava reuniões, captura áudio do microfone e do sistema, gera transcrições e produz resumos. Nesta versão, o processamento principal é realizado localmente no Mac do usuário. As gravações, transcrições, resumos, anotações e demais arquivos de trabalho permanecem no dispositivo, salvo quando o próprio usuário decide exportá-los ou compartilhá-los.
+O Ōmu é um aplicativo para macOS que grava reuniões, captura áudio do microfone e do sistema, gera transcrições e produz resumos. Nesta versão, o processamento principal é realizado localmente no Mac do usuário. As gravações, transcrições, resumos, anotações e demais arquivos de trabalho permanecem no dispositivo, salvo quando o próprio usuário decide exportá-los ou compartilhá-los.
 
 O responsável pelo aplicativo deve preencher os dados abaixo antes da publicação:
 
 E-mail de contato e privacidade: omusuporte@gmail.com
 
-Esta Política aplica-se aos usuários do Papagaio e deve ser lida em conjunto com eventuais Termos de Uso do aplicativo. Ela poderá ser atualizada para refletir mudanças no aplicativo, na legislação ou nas práticas de tratamento de dados.
+Esta Política aplica-se aos usuários do Ōmu e deve ser lida em conjunto com eventuais Termos de Uso do aplicativo. Ela poderá ser atualizada para refletir mudanças no aplicativo, na legislação ou nas práticas de tratamento de dados.
 
 ## 2. QUAIS DADOS PODEM SER TRATADOS
 
-Dependendo das funções utilizadas, o Papagaio pode tratar as seguintes categorias de dados:
+Dependendo das funções utilizadas, o Ōmu pode tratar as seguintes categorias de dados:
 
 a) Dados de áudio: gravações capturadas pelo microfone e pelo áudio do sistema, além de arquivos de áudio importados pelo usuário.
 
@@ -29,9 +29,9 @@ b) Conteúdo produzido pelo usuário: transcrições, trechos de fala, resumos, 
 
 c) Dados de perfil: informações fornecidas pelo usuário ao utilizar o recurso opcional de perfil ou autenticação, como nome e e-mail associados ao Sign in with Apple, quando essa função for utilizada.
 
-d) Dados técnicos mínimos: informações necessárias ao funcionamento do aplicativo, como versão do macOS, versão do Papagaio, estado de permissões, disponibilidade de memória e espaço em disco. Esses dados podem ser apresentados ao usuário para diagnóstico local.
+d) Dados técnicos mínimos: informações necessárias ao funcionamento do aplicativo, como versão do macOS, versão do Ōmu, estado de permissões, disponibilidade de memória e espaço em disco. Esses dados podem ser apresentados ao usuário para diagnóstico local.
 
-O Papagaio não solicita, para seu funcionamento normal, dados como número de cartão, dados bancários, localização precisa, contatos, fotos ou acesso ao conteúdo de outros aplicativos além do áudio do sistema autorizado pelo usuário.
+O Ōmu não solicita, para seu funcionamento normal, dados como número de cartão, dados bancários, localização precisa, contatos, fotos ou acesso ao conteúdo de outros aplicativos além do áudio do sistema autorizado pelo usuário.
 
 O áudio de uma reunião e seu conteúdo transcrito podem conter dados pessoais ou dados pessoais sensíveis de terceiros. O usuário é responsável por obter as autorizações necessárias antes de realizar uma gravação e por utilizar o aplicativo de acordo com a legislação aplicável.
 
@@ -39,7 +39,7 @@ O áudio de uma reunião e seu conteúdo transcrito podem conter dados pessoais 
 
 Os dados podem ser obtidos das seguintes formas:
 
-a) Quando o usuário inicia uma gravação e concede ao Papagaio acesso ao microfone.
+a) Quando o usuário inicia uma gravação e concede ao Ōmu acesso ao microfone.
 
 b) Quando o usuário autoriza a captura do áudio do sistema para registrar uma reunião online ou outra atividade sonora.
 
@@ -49,7 +49,7 @@ d) Quando o usuário cria ou utiliza um perfil opcional com o Sign in with Apple
 
 e) Quando o usuário cria notas, marcadores, títulos, exportações ou outras informações dentro do aplicativo.
 
-O Papagaio não coleta o conteúdo do áudio sem que o usuário inicie uma ação de gravação ou importação e conceda as permissões correspondentes.
+O Ōmu não coleta o conteúdo do áudio sem que o usuário inicie uma ação de gravação ou importação e conceda as permissões correspondentes.
 
 ## 4.  FINALIDADES DO TRATAMENTO\
 
@@ -63,14 +63,14 @@ f) autenticar o usuário quando o recurso opcional de perfil for utilizado;
 g) diagnosticar falhas de permissão, memória, espaço, áudio ou processamento;
 h) cumprir obrigações legais, proteger direitos e prevenir uso indevido do
 aplicativo.
-O Papagaio não utiliza o conteúdo das reuniões para publicidade personalizada,
+O Ōmu não utiliza o conteúdo das reuniões para publicidade personalizada,
 venda de dados ou treinamento de modelos externos. O processamento de
 transcrição e resumo é executado localmente no dispositivo nesta versão.
 
 ## 5.  ARMAZENAMENTO E RETENÇÃO
 
 As gravações, transcrições, resumos e anotações são armazenados localmente no
-espaço de armazenamento do aplicativo no Mac do usuário. O Papagaio não
+espaço de armazenamento do aplicativo no Mac do usuário. O Ōmu não
 mantém uma cópia em nuvem desses conteúdos nesta versão.
 Os dados permanecem armazenados enquanto forem necessários para que o usuário
 utilize a biblioteca e as funções do aplicativo, ou até que o próprio usuário
@@ -84,7 +84,7 @@ aplicável.
 
 ## 6. COMPARTILHAMENTO E TRANSFERÊNCIA
 
-O Papagaio não compartilha automaticamente gravações, transcrições, resumos ou
+O Ōmu não compartilha automaticamente gravações, transcrições, resumos ou
 
 anotações com terceiros.
 
@@ -100,11 +100,11 @@ Se o usuário utilizar o Sign in with Apple, alguns dados necessários à
 
 autenticação poderão ser tratados pela Apple de acordo com os termos e a
 
-política de privacidade da Apple. O Papagaio não recebe mais dados do que os
+política de privacidade da Apple. O Ōmu não recebe mais dados do que os
 
 autorizados pelo usuário e disponibilizados pela Apple para esse recurso.
 
-O Papagaio não utiliza, nesta versão, CloudKit, sincronização entre dispositivos
+O Ōmu não utiliza, nesta versão, CloudKit, sincronização entre dispositivos
 
 ou colaboração em nuvem para os arquivos da biblioteca.
 
@@ -124,7 +124,7 @@ Política será atualizada antes da implementação correspondente.
 
 8. SEGURANÇA
 
-O Papagaio utiliza o armazenamento privado do aplicativo e os mecanismos de
+O Ōmu utiliza o armazenamento privado do aplicativo e os mecanismos de
 
 segurança do macOS para proteger os arquivos locais contra acesso não
 
@@ -194,7 +194,7 @@ a) gravar somente quando tiver autorização ou outra base legal adequada;
 
 b) informar os participantes quando a legislação exigir;
 
-c) não utilizar o Papagaio para violar direitos de terceiros;
+c) não utilizar o Ōmu para violar direitos de terceiros;
 
 d) proteger o acesso ao seu Mac e aos arquivos exportados;
 
@@ -210,7 +210,7 @@ de um profissional qualificado.
 
 11. ALTERAÇÕES DESTA POLÍTICA
 
-Esta Política poderá ser atualizada para refletir mudanças no Papagaio, nas
+Esta Política poderá ser atualizada para refletir mudanças no Ōmu, nas
 
 práticas de tratamento ou na legislação. A versão vigente será disponibilizada
 
